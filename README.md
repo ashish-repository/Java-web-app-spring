@@ -1,3 +1,11 @@
+**Prerequisites:**
+
+Install Docker
+
+Install Maven
+
+
+
 Clone your repository (if on a new machine):
 
 Build the project: mvn clean package
